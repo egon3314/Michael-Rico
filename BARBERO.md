@@ -54,7 +54,7 @@ up(Cliente);
 up(Asiento); 
                   
                    // Espera en la sala de espera si el barbero esta ocupado 
-down(Barbero);                                                                                                                                              // El cliente se encuentra en corte de pelo 
+down(Barbero);                                                                                                                                              // El cliente se encuentra en corte de pelo
 } else 
       
   { 
